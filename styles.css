@@ -1,0 +1,154 @@
+
+
+body {
+    font-family: Montserrat, sans-serif;
+	background-color: tan;
+	margin: 0px;
+}
+	
+.header {
+    background-color: lightblue;
+	padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+    text-align: center;
+}
+
+.nav {
+    background-color: lightblue;
+    padding: 0px;
+    border: 2px solid black;
+    margin: 10px;
+	
+}
+
+.nav a {
+	text-decoration: none;
+	padding: 15px;
+	display: block;
+	text-align: center;
+	
+}
+
+.nav a:hover{
+	background-color: navy;
+}
+
+.nav ul{
+	list-style-type: none;
+	background-color: lightblue;
+	padding: none;
+	margin: none;
+	overflow: hidden;
+	
+}
+
+.nav li{
+	float: left;
+	
+}
+.summary {
+    background-color: lightblue;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.highlight-word {
+	color: red;
+}
+
+
+
+.services {
+	position: relative; 
+	right: 0px;
+	width: 250px;
+    background-color: lightgray;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+}
+
+.techniques {
+	position: relative; 
+	bottom: 374px;
+	left: 650px;
+	width: 500px;
+    background-color: lightgray;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.prices {
+	position: relative; 
+	bottom: 748px;
+	left: 1500px;
+	width: 300px;
+    background-color: lightgray;
+    padding: 20px;
+    border: 2px solid black;
+    margin: 10px;
+}
+.summary {
+	background-color: lightgrey; 
+}
+.homeImages {
+	padding: 20px;
+	margin: 20px;
+	text-align: center;
+}
+.dogImages {
+	position: relative;
+	bottom: 600px;
+	
+}
+
+.contact {
+	position: relative; 
+	text-align: center;
+	background-color: lightgrey;
+	border: 2px solid black;
+	margin: 10px;
+}
+
+.location {
+	text-align: center;
+	
+}
+
+.inquiryForm {
+	text-align: center;
+	background-color: lightgrey;
+	border: 2px solid black;
+	margin: 10px;
+}
+	
+
+.positiveReinforcment {
+	color: yellow;
+}
+.mixTraining {
+	color: yellow;
+}
+.aversiveTraining {
+	color: yellow;
+}
+.Money85 {
+	color: green;
+}
+.Money578 {
+	color: green;
+}
+.Money102 {
+	color: green;
+}
+.Money100 {
+	color: green;
+}
+.Money150 {
+	color: green;
+}
+.dogImages {
+	text-align: center;
+}
+
